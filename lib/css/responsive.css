@@ -1,9 +1,4 @@
-/*------------------------------------
-*Author:FortunaTheme
-*Template:Rezumate
-*Version:2.0
-*-------------------------------------
-*/
+
 
 @media screen and (max-width: 1920px) {
   /*-------------------skills---------------*/
@@ -21,6 +16,11 @@
   #menu {
     display: none;
   }
+
+  .section-title, .socials{
+    text-align: center!important;
+  }
+  
   .slicknav_menu {
     display: inline-block;
     position: fixed;
